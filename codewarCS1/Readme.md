@@ -5,7 +5,7 @@
 Find the maximum of subarrays, where the maximum is +1 (poorly worded)
 Print out the maximum as the loop is iterated.
 
-I:
+## _I:_
 
 3
 
@@ -22,7 +22,9 @@ I:
 6 4
 
 
-O:
+## _O:_
 6
+
 8
+
 8
