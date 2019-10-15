@@ -29,7 +29,7 @@ int main()
 			if (arrayA[i] > max)
 				max = arrayA[i];
         
-			if (max > rMax)
+			if (max > rMax-1)
 				rMax = max + 1;
         
 		}
